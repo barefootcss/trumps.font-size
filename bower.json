@@ -1,0 +1,21 @@
+{
+  "name": "Font-size Module",
+  "version": "0.1.0",
+  "authors": [
+    "Eric Harms <barefoot.css@gmail.com>"
+  ],
+  "description": "The font-size module contains helper classes to adjust the font-size.",
+  "main": "_trumps.font-size.scss",
+  "keywords": [
+    "barefoot",
+    "oocss",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/barefootcss/trumps.font-size",
+  "dependencies": {
+    "bare-headings": "~0.1.0"
+  }
+}
+  
