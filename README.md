@@ -6,7 +6,7 @@ The `font-size` module contains helper classes to adjust the font-size.
 
 Install using Bower:
 
-	$ bower --save bare-font-size
+	$ bower install --save bare-font-size
 
 Import into project:
 
