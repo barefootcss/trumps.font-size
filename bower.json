@@ -1,6 +1,6 @@
 {
   "name": "Font-size Module",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "authors": [
     "Eric Harms <barefoot.css@gmail.com>"
   ],
@@ -15,7 +15,7 @@
   "license": "MIT",
   "homepage": "https://github.com/barefootcss/trumps.font-size",
   "dependencies": {
-    "bare-headings": "~0.1.0"
+    "bare-headings": "~1.0.0"
   }
 }
   
